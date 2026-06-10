@@ -1,6 +1,6 @@
 # project1
 
-Jeev
-Fariz
-Hafiy
+Jeev,
+Fariz,
+Hafiy,
 Shahir
